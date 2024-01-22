@@ -1,0 +1,23 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+node_modules/
+dist/
+.cache/
+.venv/
+.idea/
+anime-master/
+.vscode/
+
+*.pyc
+__pycache__/
+
+instance/
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+dist/
+build/
+*.egg-info/
